@@ -79,3 +79,27 @@ In Janes account we observed the ticket and assigned it to ourselves (Step-6)
 <p>
 Made a post as Jane explaining how we were going to handle the issue (Step-7)
 </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ChYpSFv.png"
+</p>
+<p>
+Observed new traffic in the ticket thread (Step-8)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CuwISNM.png"
+</p>
+<p>
+After Jane resolved the problem we closed the ticket (Step-9)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2C5ud81.png"
+</p>
+<p>
+Sidenote can leave Internal notes that the customer (cx) wont see (Step-10)
+</p>
