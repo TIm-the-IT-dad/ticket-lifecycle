@@ -48,3 +48,34 @@ Logged into admin account and observed the ticket we created as Karen was there 
 Went back into Johns account and dived into the ticket changed SLA plan to a Sev-A serious impact (Step-3)
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/wQPoiDR.png"
+</p>
+<p>
+Refreshed the page and observed the Ticket Thread updates (Step-4)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FzIB9jE.png"
+</p>
+<p>
+Still on Johns account we assigned the ticket to the mobile banking team (Step-5)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xuAn4YV.png"
+</p>
+<p>
+In Janes account we observed the ticket and assigned it to ourselves (Step-6)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/HoXZRDZ.png"
+</p>
+<p>
+Made a post as Jane explaining how we were going to handle the issue (Step-7)
+</p>
